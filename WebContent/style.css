@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+#title {
+	color: orange;
+}
+
+.home {
+	color: maroon;
+	font-style: italic;
+	text-align: center;
+}
+
+.title {
+	text-align: center;
+}
+
+.image {
+	margin: 0
+}
+
+.portfolio {
+	color: maroon;
+	font-style: italic;
+	text-align: center;
+}
+
+.aboutme {
+	color: maroon;
+	font-style: italic;
+	text-align: center;
+}
+
+#turtle {
+	width: 600px;
+	height: 250px;
+}
+
+#newyork {
+	width: 600px;
+	height: 250px;
+}
+
+#me {
+	width: 1665px;
+	height: 300px;
+}
